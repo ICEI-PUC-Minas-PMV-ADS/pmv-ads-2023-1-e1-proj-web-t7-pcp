@@ -30,18 +30,14 @@ A tela principal mostra a apresentação do site. A tela tambem mostra a opção
 
  
 - ## Estrutura de dados
-(img/codigo_home.png)
+[Diagrama de Componentes](img/pagina_home.png)
 <center>_home.codigo.png</center>
 
 
 - ## Tela de login e cadastro
 A tela de login permite ao usuário já cadastrado ter acesso a suas informações pessoais e a funcionalidades do site disponíveis apenas para os que já possuam login. Se nao for cadastrado, oferece a opção de cadastrar
 
-
-
-(img/pagina_home.png)
-
-
+[Diagrama de Componentes](img/tela_login.png)
 
  - **requisitos atendidos**
  
@@ -55,7 +51,7 @@ A tela de login permite ao usuário já cadastrado ter acesso a suas informaçõ
 
 - ## Estruturas de dados 
 
-imagem
+
 
 - ## instruções de acesso
  1. Clique no botão no canto superior direito da tela indicado como Login;
@@ -68,8 +64,6 @@ imagem
 A tela de efetuar cadastro permite ao usuário se cadastrar no site para que possa ter acesso a outras funcionalidades como gerenciar tarefas, suas receitas favoritas, participar de forum e etc.
 
 
-imagem
-
  - **requisitos atendidos**
  
  - **Rf-02**
@@ -81,7 +75,7 @@ imagem
 
 - ## Estruturas de dados 
 
-imagem
+[Diagrama de Componentes](img/tela_cadastro.png)
 
 
 
