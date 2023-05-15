@@ -32,7 +32,8 @@ A tela principal mostra a apresentação do site. A tela tambem mostra a opção
  
 - ## Estrutura de dados
 
-<!DOCTYPE html>
+
+-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -77,8 +78,7 @@ A tela de login permite ao usuário já cadastrado ter acesso a suas informaçõ
 
 - ## Estruturas de dados 
 
-<!DOCTYPE html>
-<html lang="pt-br">
+_<html lang="pt-br">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -89,7 +89,6 @@ A tela de login permite ao usuário já cadastrado ter acesso a suas informaçõ
     <title>login</title>
   </head>
   <body>
-
     <div class="background">
       <div class="form">
         <form id="frmCadastro">
@@ -138,7 +137,7 @@ A tela de efetuar cadastro permite ao usuário se cadastrar no site para que pos
 
 - ## Estruturas de dados 
 
-<html>
+_<html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 		<script type="text/javascript"
