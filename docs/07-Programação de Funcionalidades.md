@@ -9,7 +9,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 - ## Tela home 
 
 A tela principal mostra a apresentação do site. A tela tambem mostra a opção de login, depoimentos e favoritos.
-(img/pagina_home.png)
+!(img/pagina_home.png)
 <center>pagina_home.png</center>
 
  - **requisitos atendidos**
