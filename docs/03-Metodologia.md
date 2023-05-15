@@ -36,6 +36,7 @@ A equipe está organizada da seguinte maneira:
 - Maria Ester de Jesus Guimarães
 - Reinaldo Barbosa Lima
 - Marina Fernandes de Souza Hack
+- Bianca Camila Pereira Reis
 
 ● Product Owner:
 
@@ -43,6 +44,7 @@ A equipe está organizada da seguinte maneira:
 - Maria Ester de Jesus Guimarães
 - Reinaldo Barbosa Lima
 - Marina Fernandes de Souza Hack
+- Bianca Camila Pereira Reis
 
 ● Equipe de Desenvolvimento
 
@@ -50,6 +52,7 @@ A equipe está organizada da seguinte maneira:
 - Maria Ester de Jesus Guimarães
 - Reinaldo Barbosa Lima
 - Marina Fernandes de Souza Hack
+- Bianca Camila Pereira Reis
 
 ● Equipe de Design
 
@@ -57,6 +60,8 @@ A equipe está organizada da seguinte maneira:
 - Maria Ester de Jesus Guimarães
 - Reinaldo Barbosa Lima
 - Marina Fernandes de Souza Hack
+- Bianca Camila Pereira Reis
+
 
 
 ### Planejamento
