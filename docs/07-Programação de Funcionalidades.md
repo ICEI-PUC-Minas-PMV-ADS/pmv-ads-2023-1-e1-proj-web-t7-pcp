@@ -10,7 +10,8 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 A tela principal mostra a apresentação do site. A tela tambem mostra a opção de login, depoimentos e favoritos.
 
-!(docs/img/pagina_home.png)
+![Exemplo de UserFlow](img/pagina_home.png)
+
 
  - **requisitos atendidos**
 
