@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Júlia Roberta de Souza 
 * Maria Ester de Jesus Guimarães
 * Reinaldo Barbosa Lima
-* Marina Fernandes de Souza Hack
+* Bianca Camila Pereira Reis
 
 
 ## Orientador
