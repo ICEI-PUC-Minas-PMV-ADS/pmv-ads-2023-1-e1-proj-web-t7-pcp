@@ -10,11 +10,11 @@ let eventos = [];
 let id;
 
 function openModal(edit = false, index = 0) {
-  modal.classList.add('active');
+  modal.style.display = 'flex';
 
   modal.onclick = e => {
-    if (e.target.className.indexOf('modal-container') !== -1) {
-      modal.classList.remove('active');
+    if (e.target.classList.contains('modal-container')) {
+      modal.style.display = 'none';
     }
   };
 
@@ -82,7 +82,7 @@ btnSalvar.onclick = e => {
 
   setEventosLocalStorage();
 
-  modal.classList.remove('active');
+  modal.style.display = 'none';
   loadEventos();
   id = undefined;
 };
