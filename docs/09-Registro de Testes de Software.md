@@ -14,7 +14,10 @@ próximas iterações. Apresente as falhas detectadas e as melhorias geradas a p
 ## Relatorio de testes 
 
 ## Tela de tabela
- 
+
+![Exemplo de UserFlow](img/teste.png)
+
+
 Responsavel: Bianca camila 
 
 Durante a execução dos testes foi identificado tanto pontos fortes quanto pontos fracos na solução.
