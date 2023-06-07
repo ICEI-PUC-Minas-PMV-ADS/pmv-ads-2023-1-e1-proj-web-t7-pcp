@@ -29,7 +29,7 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
  -Ferramentas Utilizadas: Navegador da Web, jsfiddle.net
  -Grupo de Usuários: Todos os usuários do sistema
  -Ferramentas Utilizadas: Navegador da Web
- -Descrição: Verificar se os usuários podem visualizar os detalhes de um evento selecionado na tabela. Ao clicar na ação "Visualizar e editar", verificar se os detalhes do evento, como nome, descrição, valor e data, são exibidos corretamente em um formato legível.
+ -Descrição: Verificar se os usuários podem visualizar os detalhes de um evento selecionado na tabela. Ao clicar na ação "Visualizar e editar", verificar se os   detalhes do evento, como nome, descrição, valor e data, são exibidos corretamente em um formato legível.
  
  3. Cenário de Teste: Atualizar um evento existente
 
@@ -56,12 +56,16 @@ Foi utilizado para o teste o site
 (https://jsfiddle.net/)
 
 
-(img/tabela.png)
-(img/tabela01.png)
+
+![Exemplo de UserFlow](img/tabela.png)
+
+![Exemplo de UserFlow](img/tabela01.png)
+
 
 **teste**
 
-(img/teste.png)
+
+![Exemplo de UserFlow](img/teste.png)
 
 
 
