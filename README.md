@@ -42,7 +42,8 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* Insira o endereço eletrônico público de acesso ao conteúdo publicado.
+* https://ephemeral-lamington-4e9f9d.netlify.app/
 
 # Armazenamento do Código-Fonte
 
