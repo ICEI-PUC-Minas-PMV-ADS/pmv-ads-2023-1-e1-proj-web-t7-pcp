@@ -10,12 +10,26 @@ body {
   justify-content: space-between;
   background-color: #f9e6f3;
   color: #000000;
-  padding: 25px;
+  padding: 20px;
 }
 
 .logo img {
   width: 200px;
 }
+
+
+.cabeçalho-menu {
+  display: flex;
+  gap: 32px;    
+ }
+ 
+
+.cabeçalho-menu-item {
+  font-family: 'Roboto', sans-serif;
+  color: #3F0D0D;
+  font-weight: 400;
+  font-size: 40;
+ }
 
 .navbar ul {
   list-style-type: none;
@@ -40,11 +54,18 @@ body {
   padding: 20px;
 }
 
+.line {
+  text-align: center;
+}
+
+
 .title {
   margin-bottom: 20px;
+  display:inline-block;
 }
 
 .btn-new {
+  margin-left: 60%;
   background-color: #ab6d4c;
   color: #333;
   border: none;
