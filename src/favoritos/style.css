@@ -1,45 +1,59 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration: none;
+@import url('https://fonts.googleapis.com/css2?family= família= Playfair+Display &família= Roboto:wght@100;400 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ text-decoration: none;
 }
 
 body {
+ font-size: 100%;
+ background-color: #FFDCDE;
 
-    background: #e2c7e0;
 }
-.cabecalho {
+/*cabeçalho do site*/
+
+.cabeçalho {
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-around;
+ padding: 24px;
+}
+
+.cabeçalho-logo {
+ height: 72px;   
+}
+
+.cabeçalho-menu {
+ display: flex;
+ gap: 32px;    
+}
+
+.cabeçalho-menu-item {
+ font-family: 'Roboto', sans-serif;
+ color: #3F0D0D;
+ font-weight: 400;
+ font-size: 40;
+}
+
+a{ 
+  font-family: 'Roboto', sans-serif;
+  color: #3F0D0D;
+  font-weight: 400;
+  font-size: 40;}
+
+  .titulo-principal{
+    font-family: 'Roboto', sans-serif;
+    color: #3F0D0D;
+    font-weight: 400;
+    font-size: 40;
     display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    padding: 24px;
-    width: 100%;
-    height: 160px;    
-    border: 2px solid #000000;
-    font-family: 'Roboto';
-    font-style: normal; 
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 47px;
-    text-align: center;
-
-}
-
-.btn-usuário{
-    box-sizing: border-box;
-    width: 170px;
-    height: 76px;
-    background: #D41FC21A;
-    border: 2px solid #000000;
-    border-radius: 20px;
-    font-family: 'Roboto';
-    font-style: normal; 
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 47px;
-    text-align: center;
-}
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
 
 

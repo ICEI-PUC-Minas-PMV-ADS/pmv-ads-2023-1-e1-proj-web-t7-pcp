@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family= família= Playfair+Display &família= Roboto:wght@100;400 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ text-decoration: none;
+}
+
+body {
+ font-size: 100%;
+ background-color: #FFDCDE;
+
+}
+/*cabeçalho do site*/
+
+.cabeçalho {
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-around;
+ padding: 24px;
+}
+
+.cabeçalho-logo {
+ height: 72px;   
+}
+
+.cabeçalho-menu {
+ display: flex;
+ gap: 32px;    
+}
+
+.cabeçalho-menu-item {
+ font-family: 'Roboto', sans-serif;
+ color: #3F0D0D;
+ font-weight: 400;
+ font-size: 40;
+}
+
+a{ 
+  font-family: 'Roboto', sans-serif;
+  color: #3F0D0D;
+  font-weight: 400;
+  font-size: 40;}
+
+/*conteúdo principal*/
+
+.conteudo-principal-escrito {
+ display: flex;
+ flex-direction: column;
+ gap: 32px;
+}
+
+.conteudo-principal-escrito-titulo {
+ font-family: 'Playfair Display', serif;
+ font-weight: 400;
+ font-size: 35px;
+ justify-content: center;   
+}
+
+.conteudo-principal-escrito-subtitulo {
+ font-family: 'Roboto', sem serifa;
+ font-weight: 400;
+ font-size: 20px;
+ justify-content: center;
+ color: 996344;
+}
+
+/*barra de pesquisa*/
+
+.divBusca{
+  background-color:#FFDCDE;
+  border:solid 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-radius:1.2px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.txtReceitas{color: #000;
+  text-align: center;
+  font-size: 20px;
+  font-family: Roboto;
+  padding-bottom: 75px;
+}
+.searchBar {    
+  background-color:#0000;
+  padding-left:50px;
+  font-size:18px;
+  width: 650px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  border-radius: 35px;
+  border: 1.2px solid rgba(153, 99, 68, 0.44);
+background: #FFF;}
+
+img#btnBusca {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-self: center;
+}
+
+/*início das receitas*/
+.receitas{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;}
+
+  .receitas img{
+    height: 356px;
+    width: 356px;
+    left: 75px;
+    top: 606px;
+    border-radius: 0px;}
+    
+    .image-with-text {
+      text-align: center;
+      width: 356px;
+  }
+  

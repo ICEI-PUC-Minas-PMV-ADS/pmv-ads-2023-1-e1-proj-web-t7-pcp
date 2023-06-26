@@ -1,0 +1,1 @@
+const localStorageStuff= localStorage.getItem('favoritos')
